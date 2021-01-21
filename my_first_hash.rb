@@ -2,7 +2,6 @@ def my_hash
 your_hash = {"golf balls" => "Titleist"}
 end
 
-
 def shipping_manifest
  the_manifest = {
                   "whale bone corsets" => 5,
